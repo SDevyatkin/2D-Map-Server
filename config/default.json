@@ -1,0 +1,4 @@
+{
+  "MapURL": "http://127.0.0.1/tile/{z}/{x}/{y}.png",
+  "TCPHost": "127.0.0.1"
+}
